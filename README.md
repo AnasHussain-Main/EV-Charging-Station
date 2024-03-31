@@ -5,13 +5,18 @@ The EV Charging Station Locator is an advanced routing system designed to enhanc
 
 # Key Features
 **Graph-Based Network Representation**: Models the road network and charging stations as a weighted graph, where nodes represent intersections or points of interest, and edges depict the roadways connecting them.
+
 **Dijkstra's Shortest Path Algorithm**: Efficiently computes the shortest path to the nearest charging station from any given location within the network.
+
 **Dynamic Routing Recommendations**: Offers real-time route optimization based on the current location, providing the most efficient path to the closest charging station.
+
 **Scalable Infrastructure**: Designed to accommodate expanding networks, allowing for the integration of new charging stations and roadways as the EV market grows.
 
 # Technologies Used
 **Programming Language**: Python
+
 **Data Structures**: Graphs, Priority Queues
+
 **Algorithms**: Dijkstra’s Shortest Path Algorithm
 
 # Use Case
